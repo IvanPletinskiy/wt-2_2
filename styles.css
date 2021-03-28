@@ -1,0 +1,12 @@
+.selected_link {
+    background-color: darksalmon;
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+}
+
+.normal_link {
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+}
